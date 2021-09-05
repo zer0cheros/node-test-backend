@@ -3,6 +3,7 @@ const express = require('express')
 const jwt = require('jsonwebtoken')
 const app = express()
 let port = 3000
+let localhost = "http://localhost"
 
 app.use(express.json())
 
