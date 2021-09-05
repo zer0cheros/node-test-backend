@@ -1,0 +1,15 @@
+GET http://localhost:3000
+
+
+###
+
+POST http://localhost:3000/login
+
+###
+
+POST http://localhost:3000/login2
+
+###
+
+POST http://localhost:3000/registration
+Authorization: Bearer "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxMjMxMjMxMjMsIm5hbWUiOiJDaHJpc3RpYW4iLCJlbWFpbCI6ImNocmlzdGlhbkBnbWFpbC5jb20ifSwiaWF0IjoxNjI3ODQxNTE3LCJleHAiOjE2Mjc4NDE1MzJ9.Cvh3B-K01Pp8obFY8RtHuXRgZerVib1AJEJ_2oKAD6M"
